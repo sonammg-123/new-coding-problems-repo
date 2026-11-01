@@ -1,0 +1,121 @@
+{
+  "platform": "stratascratch",
+  "problemNumber": "2168",
+  "title": "Users Missing Phone Numbers",
+  "slug": "users-missing-phone-numbers",
+  "url": "https://platform.stratascratch.com/coding/2168-users-missing-phone-numbers/official-solution",
+  "difficulty": null,
+  "premium": null,
+  "company": null,
+  "category": "SQL",
+  "topics": [],
+  "tables": [],
+  "examples": [],
+  "constraints": [],
+  "followUp": null,
+  "hints": [],
+  "sampleTestCase": null,
+  "expectedOutput": {
+    "columns": [
+      "user_id",
+      "user_name"
+    ],
+    "data": [
+      [
+        "4",
+        "Liam Martinez"
+      ],
+      [
+        "5",
+        "Ava Rodriguez"
+      ],
+      [
+        "6",
+        "Oliver Lopez"
+      ],
+      [
+        "10",
+        "Lucas Thomas"
+      ],
+      [
+        "11",
+        "Mia Taylor"
+      ],
+      [
+        "17",
+        "Ethan Thompson"
+      ],
+      [
+        "18",
+        "Evelyn White"
+      ],
+      [
+        "20",
+        "Abigail Sanchez"
+      ],
+      [
+        "22",
+        "Emily Ramirez"
+      ],
+      [
+        "24",
+        "Elizabeth Robinson"
+      ],
+      [
+        "27",
+        "Alexander Allen"
+      ],
+      [
+        "31",
+        "Henry Torres"
+      ],
+      [
+        "36",
+        "Victoria Baker"
+      ],
+      [
+        "41",
+        "David Roberts"
+      ],
+      [
+        "44",
+        "Zoey Campbell"
+      ],
+      [
+        "47",
+        "Jack Edwards"
+      ],
+      [
+        "51",
+        "Ryan Morris"
+      ],
+      [
+        "53",
+        "Isaac Rivera"
+      ],
+      [
+        "54",
+        "Eleanor Cook"
+      ],
+      [
+        "55",
+        "Gabriel Rogers"
+      ],
+      [
+        "56",
+        "Hazel Reed"
+      ],
+      [
+        "58",
+        "Stella Bell"
+      ],
+      [
+        "59",
+        "Anthony Cooper"
+      ]
+    ]
+  },
+  "languages": [
+    "MySQL"
+  ]
+}
