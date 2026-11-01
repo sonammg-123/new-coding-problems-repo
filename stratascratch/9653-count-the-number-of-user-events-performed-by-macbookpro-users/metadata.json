@@ -1,0 +1,53 @@
+{
+  "platform": "stratascratch",
+  "problemNumber": "9653",
+  "title": "Count The Number Of User Events Performed By Macbookpro Users",
+  "slug": "count-the-number-of-user-events-performed-by-macbookpro-users",
+  "url": "https://platform.stratascratch.com/coding/9653-count-the-number-of-user-events-performed-by-macbookpro-users/official-solution",
+  "difficulty": null,
+  "premium": null,
+  "company": null,
+  "category": "SQL",
+  "topics": [],
+  "tables": [],
+  "examples": [],
+  "constraints": [],
+  "followUp": null,
+  "hints": [],
+  "sampleTestCase": null,
+  "expectedOutput": {
+    "columns": [
+      "event_name",
+      "event_count"
+    ],
+    "data": [
+      [
+        "home_page",
+        "10"
+      ],
+      [
+        "view_inbox",
+        "3"
+      ],
+      [
+        "login",
+        "3"
+      ],
+      [
+        "search_autocomplete",
+        "3"
+      ],
+      [
+        "like_message",
+        "3"
+      ],
+      [
+        "send_message",
+        "1"
+      ]
+    ]
+  },
+  "languages": [
+    "MySQL"
+  ]
+}
