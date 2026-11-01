@@ -1,0 +1,79 @@
+{
+  "platform": "stratascratch",
+  "problemNumber": "2167",
+  "title": "High Earners in Support Departments",
+  "slug": "high-earners-in-support-departments",
+  "url": "https://platform.stratascratch.com/coding/2167-high-earners-in-support-departments",
+  "difficulty": null,
+  "premium": null,
+  "company": null,
+  "category": "SQL",
+  "topics": [],
+  "tables": [],
+  "examples": [],
+  "constraints": [],
+  "followUp": null,
+  "hints": [],
+  "sampleTestCase": null,
+  "expectedOutput": {
+    "columns": [
+      "first_name",
+      "last_name",
+      "department",
+      "salary"
+    ],
+    "data": [
+      [
+        "Sarah",
+        "Mitchell",
+        "HR",
+        "95000"
+      ],
+      [
+        "Michael",
+        "Chen",
+        "HR",
+        "88000"
+      ],
+      [
+        "Emily",
+        "Rodriguez",
+        "HR",
+        "82500"
+      ],
+      [
+        "William",
+        "Davis",
+        "HR",
+        "91000"
+      ],
+      [
+        "James",
+        "Martinez",
+        "Admin",
+        "87000"
+      ],
+      [
+        "Amanda",
+        "Taylor",
+        "Admin",
+        "92000"
+      ],
+      [
+        "Christopher",
+        "Anderson",
+        "Admin",
+        "81500"
+      ],
+      [
+        "Matthew",
+        "Harris",
+        "Admin",
+        "85000"
+      ]
+    ]
+  },
+  "languages": [
+    "MySQL"
+  ]
+}
