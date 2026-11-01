@@ -1,0 +1,37 @@
+{
+  "platform": "stratascratch",
+  "problemNumber": "2056",
+  "title": "Number Of Shipments Per Month",
+  "slug": "number-of-shipments-per-month",
+  "url": "https://platform.stratascratch.com/coding/2056-number-of-shipments-per-month/official-solution",
+  "difficulty": null,
+  "premium": null,
+  "company": null,
+  "category": "SQL",
+  "topics": [],
+  "tables": [],
+  "examples": [],
+  "constraints": [],
+  "followUp": null,
+  "hints": [],
+  "sampleTestCase": null,
+  "expectedOutput": {
+    "columns": [
+      "count(shipment_id)",
+      "date_ym"
+    ],
+    "data": [
+      [
+        "3",
+        "2021-08"
+      ],
+      [
+        "6",
+        "2021-09"
+      ]
+    ]
+  },
+  "languages": [
+    "MySQL"
+  ]
+}
