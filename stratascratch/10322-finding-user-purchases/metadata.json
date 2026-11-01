@@ -1,0 +1,69 @@
+{
+  "platform": "stratascratch",
+  "problemNumber": "10322",
+  "title": "Finding User Purchases",
+  "slug": "finding-user-purchases",
+  "url": "https://platform.stratascratch.com/coding/10322-finding-user-purchases",
+  "difficulty": null,
+  "premium": null,
+  "company": null,
+  "category": "SQL",
+  "topics": [],
+  "tables": [
+    "user_ids"
+  ],
+  "examples": [],
+  "constraints": [],
+  "followUp": null,
+  "hints": [],
+  "sampleTestCase": null,
+  "expectedOutput": {
+    "columns": [
+      "user_id"
+    ],
+    "data": [
+      [
+        "100"
+      ],
+      [
+        "103"
+      ],
+      [
+        "105"
+      ],
+      [
+        "109"
+      ],
+      [
+        "111"
+      ],
+      [
+        "114"
+      ],
+      [
+        "117"
+      ],
+      [
+        "122"
+      ],
+      [
+        "130"
+      ],
+      [
+        "131"
+      ],
+      [
+        "133"
+      ],
+      [
+        "141"
+      ],
+      [
+        "143"
+      ]
+    ]
+  },
+  "languages": [
+    "MySQL"
+  ]
+}
