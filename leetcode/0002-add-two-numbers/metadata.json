@@ -1,0 +1,49 @@
+{
+  "platform": "leetcode",
+  "problemNumber": "2",
+  "title": "Add Two Numbers",
+  "slug": "add-two-numbers",
+  "url": "https://leetcode.com/problems/add-two-numbers/",
+  "difficulty": "Medium",
+  "premium": false,
+  "company": null,
+  "category": null,
+  "topics": [
+    "Linked List",
+    "Math",
+    "Recursion"
+  ],
+  "tables": [],
+  "examples": [
+    {
+      "exampleNumber": 1,
+      "input": "l1 = [2,4,3], l2 = [5,6,4]",
+      "output": "[7,0,8]",
+      "explanation": "342 + 465 = 807."
+    },
+    {
+      "exampleNumber": 2,
+      "input": "l1 = [0], l2 = [0]",
+      "output": "[0]",
+      "explanation": null
+    },
+    {
+      "exampleNumber": 3,
+      "input": "l1 = [9,9,9,9,9,9,9], l2 = [9,9,9,9]",
+      "output": "[8,9,9,9,0,0,0,1]",
+      "explanation": null
+    }
+  ],
+  "constraints": [
+    "The number of nodes in each linked list is in the range [1, 100].",
+    "0 <= Node.val <= 9",
+    "It is guaranteed that the list represents a number that does not have leading zeros."
+  ],
+  "followUp": null,
+  "hints": [],
+  "sampleTestCase": "[2,4,3]\n[5,6,4]",
+  "expectedOutput": null,
+  "languages": [
+    "Java"
+  ]
+}
