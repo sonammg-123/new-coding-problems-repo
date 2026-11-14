@@ -1,0 +1,31 @@
+{
+  "platform": "stratascratch",
+  "problemNumber": "2005",
+  "title": "Share Of Active Users",
+  "slug": "share-of-active-users",
+  "url": "https://platform.stratascratch.com/coding/2005-share-of-active-users/official-solution",
+  "difficulty": null,
+  "premium": null,
+  "company": null,
+  "category": "SQL",
+  "topics": [],
+  "tables": [],
+  "examples": [],
+  "constraints": [],
+  "followUp": null,
+  "hints": [],
+  "sampleTestCase": null,
+  "expectedOutput": {
+    "columns": [
+      "us_active_share"
+    ],
+    "data": [
+      [
+        "13.04"
+      ]
+    ]
+  },
+  "languages": [
+    "MySQL"
+  ]
+}
