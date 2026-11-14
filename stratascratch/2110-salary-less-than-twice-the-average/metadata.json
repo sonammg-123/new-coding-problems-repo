@@ -1,0 +1,40 @@
+{
+  "platform": "stratascratch",
+  "problemNumber": "2110",
+  "title": "Salary Less Than Twice The Average",
+  "slug": "salary-less-than-twice-the-average",
+  "url": "https://platform.stratascratch.com/coding/2110-salary-less-than-twice-the-average",
+  "difficulty": null,
+  "premium": null,
+  "company": null,
+  "category": "SQL",
+  "topics": [],
+  "tables": [],
+  "examples": [],
+  "constraints": [],
+  "followUp": null,
+  "hints": [],
+  "sampleTestCase": null,
+  "expectedOutput": {
+    "columns": [
+      "manager_id",
+      "salary",
+      "empl_avg_salary"
+    ],
+    "data": [
+      [
+        "E850",
+        "30000",
+        "20000"
+      ],
+      [
+        "E854",
+        "18000",
+        "16000"
+      ]
+    ]
+  },
+  "languages": [
+    "MySQL"
+  ]
+}
