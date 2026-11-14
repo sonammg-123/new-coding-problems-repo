@@ -1,0 +1,53 @@
+{
+  "platform": "stratascratch",
+  "problemNumber": "2172",
+  "title": "Customers With Large Orders",
+  "slug": "customers-with-large-orders",
+  "url": "https://platform.stratascratch.com/coding/2172-customers-with-large-orders/official-solution",
+  "difficulty": null,
+  "premium": null,
+  "company": null,
+  "category": "SQL",
+  "topics": [],
+  "tables": [],
+  "examples": [],
+  "constraints": [],
+  "followUp": null,
+  "hints": [],
+  "sampleTestCase": null,
+  "expectedOutput": {
+    "columns": [
+      "customer_id",
+      "customer_name"
+    ],
+    "data": [
+      [
+        "1",
+        "Alice Johnson"
+      ],
+      [
+        "2",
+        "Bob Smith"
+      ],
+      [
+        "3",
+        "Carol Williams"
+      ],
+      [
+        "6",
+        "Frank Miller"
+      ],
+      [
+        "7",
+        "Grace Wilson"
+      ],
+      [
+        "9",
+        "Ivy Taylor"
+      ]
+    ]
+  },
+  "languages": [
+    "MySQL"
+  ]
+}
