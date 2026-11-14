@@ -1,0 +1,49 @@
+{
+  "platform": "stratascratch",
+  "problemNumber": "2102",
+  "title": "Flags Per Video",
+  "slug": "flags-per-video",
+  "url": "https://platform.stratascratch.com/coding/2102-flags-per-video/official-solution",
+  "difficulty": null,
+  "premium": null,
+  "company": null,
+  "category": "SQL",
+  "topics": [],
+  "tables": [],
+  "examples": [],
+  "constraints": [],
+  "followUp": null,
+  "hints": [],
+  "sampleTestCase": null,
+  "expectedOutput": {
+    "columns": [
+      "video_id",
+      "num_unique_users"
+    ],
+    "data": [
+      [
+        "5qap5aO4i9A",
+        "2"
+      ],
+      [
+        "Ct6BUPvE2sM",
+        "2"
+      ],
+      [
+        "dQw4w9WgXcQ",
+        "5"
+      ],
+      [
+        "jNQXAC9IVRw",
+        "3"
+      ],
+      [
+        "y6120QOlsfU",
+        "5"
+      ]
+    ]
+  },
+  "languages": [
+    "MySQL"
+  ]
+}
