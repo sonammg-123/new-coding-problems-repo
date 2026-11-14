@@ -1,0 +1,155 @@
+{
+  "platform": "stratascratch",
+  "problemNumber": "2101",
+  "title": "Maximum Of Two Numbers",
+  "slug": "maximum-of-two-numbers",
+  "url": "https://platform.stratascratch.com/coding/2101-maximum-of-two-numbers/official-solution",
+  "difficulty": null,
+  "premium": null,
+  "company": null,
+  "category": "SQL",
+  "topics": [],
+  "tables": [],
+  "examples": [],
+  "constraints": [],
+  "followUp": null,
+  "hints": [],
+  "sampleTestCase": null,
+  "expectedOutput": {
+    "columns": [
+      "number1",
+      "number2",
+      "max_number"
+    ],
+    "data": [
+      [
+        "2",
+        "-2",
+        "2"
+      ],
+      [
+        "1",
+        "-2",
+        "1"
+      ],
+      [
+        "0",
+        "-2",
+        "0"
+      ],
+      [
+        "-1",
+        "-2",
+        "-1"
+      ],
+      [
+        "-2",
+        "-2",
+        "-2"
+      ],
+      [
+        "2",
+        "-1",
+        "2"
+      ],
+      [
+        "1",
+        "-1",
+        "1"
+      ],
+      [
+        "0",
+        "-1",
+        "0"
+      ],
+      [
+        "-1",
+        "-1",
+        "-1"
+      ],
+      [
+        "-2",
+        "-1",
+        "-1"
+      ],
+      [
+        "2",
+        "0",
+        "2"
+      ],
+      [
+        "1",
+        "0",
+        "1"
+      ],
+      [
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "-1",
+        "0",
+        "0"
+      ],
+      [
+        "-2",
+        "0",
+        "0"
+      ],
+      [
+        "2",
+        "1",
+        "2"
+      ],
+      [
+        "1",
+        "1",
+        "1"
+      ],
+      [
+        "0",
+        "1",
+        "1"
+      ],
+      [
+        "-1",
+        "1",
+        "1"
+      ],
+      [
+        "-2",
+        "1",
+        "1"
+      ],
+      [
+        "2",
+        "2",
+        "2"
+      ],
+      [
+        "1",
+        "2",
+        "2"
+      ],
+      [
+        "0",
+        "2",
+        "2"
+      ],
+      [
+        "-1",
+        "2",
+        "2"
+      ],
+      [
+        "-2",
+        "2",
+        "2"
+      ]
+    ]
+  },
+  "languages": [
+    "MySQL"
+  ]
+}
