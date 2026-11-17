@@ -1,0 +1,47 @@
+{
+  "platform": "leetcode",
+  "problemNumber": "11",
+  "title": "Container With Most Water",
+  "slug": "container-with-most-water",
+  "url": "https://leetcode.com/problems/container-with-most-water/",
+  "difficulty": "Medium",
+  "premium": false,
+  "company": null,
+  "category": null,
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Greedy"
+  ],
+  "tables": [],
+  "examples": [
+    {
+      "exampleNumber": 1,
+      "input": "height = [1,8,6,2,5,4,8,3,7]",
+      "output": "49",
+      "explanation": "The above vertical lines are represented by array [1,8,6,2,5,4,8,3,7]. In this case, the max area of water (blue section) the container can contain is 49."
+    },
+    {
+      "exampleNumber": 2,
+      "input": "height = [1,1]",
+      "output": "1",
+      "explanation": null
+    }
+  ],
+  "constraints": [
+    "n == height.length",
+    "2 <= n <= 10^5",
+    "0 <= height[i] <= 10^4"
+  ],
+  "followUp": null,
+  "hints": [
+    "If you simulate the problem, it will be O(n^2) which is not efficient.",
+    "Try to use two-pointers. Set one pointer to the left and one to the right of the array. Always move the pointer that points to the lower line.",
+    "How can you calculate the amount of water at each step?"
+  ],
+  "sampleTestCase": "[1,8,6,2,5,4,8,3,7]",
+  "expectedOutput": null,
+  "languages": [
+    "Java"
+  ]
+}
