@@ -1,0 +1,49 @@
+{
+  "platform": "leetcode",
+  "problemNumber": "2418",
+  "title": "Sort the People",
+  "slug": "sort-the-people",
+  "url": "https://leetcode.com/problems/sort-the-people/",
+  "difficulty": "Easy",
+  "premium": false,
+  "company": null,
+  "category": null,
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Sorting"
+  ],
+  "tables": [],
+  "examples": [
+    {
+      "exampleNumber": 1,
+      "input": "names = [\"Mary\",\"John\",\"Emma\"], heights = [180,165,170]",
+      "output": "[\"Mary\",\"Emma\",\"John\"]",
+      "explanation": "Mary is the tallest, followed by Emma and John."
+    },
+    {
+      "exampleNumber": 2,
+      "input": "names = [\"Alice\",\"Bob\",\"Bob\"], heights = [155,185,150]",
+      "output": "[\"Bob\",\"Alice\",\"Bob\"]",
+      "explanation": "The first Bob is the tallest, followed by Alice and the second Bob."
+    }
+  ],
+  "constraints": [
+    "n == names.length == heights.length",
+    "1 <= n <= 10^3",
+    "1 <= names[i].length <= 20",
+    "1 <= heights[i] <= 10^5",
+    "names[i] consists of lower and upper case English letters.",
+    "All the values of heights are distinct."
+  ],
+  "followUp": null,
+  "hints": [
+    "Find the tallest person and swap with the first person, then find the second tallest person and swap with the second person, etc. Repeat until you fix all n people."
+  ],
+  "sampleTestCase": "[\"Mary\",\"John\",\"Emma\"]\n[180,165,170]",
+  "expectedOutput": null,
+  "languages": [
+    "Java"
+  ]
+}
