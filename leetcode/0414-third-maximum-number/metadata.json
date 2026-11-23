@@ -1,0 +1,47 @@
+{
+  "platform": "leetcode",
+  "problemNumber": "414",
+  "title": "Third Maximum Number",
+  "slug": "third-maximum-number",
+  "url": "https://leetcode.com/problems/third-maximum-number/",
+  "difficulty": "Easy",
+  "premium": false,
+  "company": null,
+  "category": null,
+  "topics": [
+    "Array",
+    "Sorting"
+  ],
+  "tables": [],
+  "examples": [
+    {
+      "exampleNumber": 1,
+      "input": "nums = [3,2,1]",
+      "output": "1",
+      "explanation": "The first distinct maximum is 3.\nThe second distinct maximum is 2.\nThe third distinct maximum is 1."
+    },
+    {
+      "exampleNumber": 2,
+      "input": "nums = [1,2]",
+      "output": "2",
+      "explanation": "The first distinct maximum is 2.\nThe second distinct maximum is 1.\nThe third distinct maximum does not exist, so the maximum (2) is returned instead."
+    },
+    {
+      "exampleNumber": 3,
+      "input": "nums = [2,2,3,1]",
+      "output": "1",
+      "explanation": "The first distinct maximum is 3.\nThe second distinct maximum is 2 (both 2's are counted together since they have the same value).\nThe third distinct maximum is 1."
+    }
+  ],
+  "constraints": [
+    "1 <= nums.length <= 10^4",
+    "-2^31 <= nums[i] <= 2^31 - 1"
+  ],
+  "followUp": "Can you find an O(n) solution?",
+  "hints": [],
+  "sampleTestCase": "[3,2,1]",
+  "expectedOutput": null,
+  "languages": [
+    "Java"
+  ]
+}
