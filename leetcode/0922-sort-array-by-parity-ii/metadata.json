@@ -1,0 +1,44 @@
+{
+  "platform": "leetcode",
+  "problemNumber": "922",
+  "title": "Sort Array By Parity II",
+  "slug": "sort-array-by-parity-ii",
+  "url": "https://leetcode.com/problems/sort-array-by-parity-ii/",
+  "difficulty": "Easy",
+  "premium": false,
+  "company": null,
+  "category": null,
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "tables": [],
+  "examples": [
+    {
+      "exampleNumber": 1,
+      "input": "nums = [4,2,5,7]",
+      "output": "[4,5,2,7]",
+      "explanation": "[4,7,2,5], [2,5,4,7], [2,7,4,5] would also have been accepted."
+    },
+    {
+      "exampleNumber": 2,
+      "input": "nums = [2,3]",
+      "output": "[2,3]",
+      "explanation": null
+    }
+  ],
+  "constraints": [
+    "2 <= nums.length <= 2 * 10^4",
+    "nums.length is even.",
+    "Half of the integers in nums are even.",
+    "0 <= nums[i] <= 1000"
+  ],
+  "followUp": "Could you solve it in-place?",
+  "hints": [],
+  "sampleTestCase": "[4,2,5,7]",
+  "expectedOutput": null,
+  "languages": [
+    "Java"
+  ]
+}
